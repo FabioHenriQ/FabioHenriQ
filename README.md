@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Fabio Henrique 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-henrique-dos-santos-3186921b4)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-henrique-dos-santos-3186921b4/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenriQ&show_icons=true&theme=radical&locale=pt-br)
 
-##Tecnologias que eu utilizo
+## Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/ >
