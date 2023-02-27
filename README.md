@@ -15,3 +15,7 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/ >
   
 </div>
+
+### Sou apaixonado por tecnologia, e estou em busca de mudar a vida das pessoas com programação. ❤️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&locale=pt-br)](https://github.com/FabioHenriQ/github-readme-stats)
