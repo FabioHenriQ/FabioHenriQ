@@ -1,4 +1,4 @@
-## Olá
+# Olá 👋
 [![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&vCenter=true&width=1000&lines=Meu+nome+é+Fabio+Henrique;Atualmente+sou+Desenvolvedor+WEB;Futuro+Engenheiro+de+Software:%29)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-henrique-dos-santos-3186921b4/)
