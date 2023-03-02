@@ -25,3 +25,4 @@
 ### Tenho 20 anos e sou apaixonado por tecnologia e estou em busca de mudar a vida das pessoas com programação. ❤️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&locale=pt-br)](https://github.com/FabioHenriQ/github-readme-stats)
+.
