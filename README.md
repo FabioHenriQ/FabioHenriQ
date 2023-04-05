@@ -22,6 +22,6 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/ >
 </div>
 
-### Tenho 20 anos, sou apaixonado por tecnologia e estou em busca de mudar a vida das pessoas com programação. ❤️
+### Sou apaixonado por tecnologia e estou em busca de mudar a vida das pessoas com programação. ❤️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&locale=pt-br)](https://github.com/FabioHenriQ/github-readme-stats)
