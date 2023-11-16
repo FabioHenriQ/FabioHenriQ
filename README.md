@@ -2,10 +2,8 @@
 [![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&vCenter=true&width=1000&lines=Meu+nome+é+Fabio+Henrique;Atualmente+sou+Desenvolvedor+WEB;Futuro+Engenheiro+de+Software+:%29)](https://git.io/typing-svg)
 
 ### Minhas redes para contato 📧
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-henrique-dos-santos-3186921b4/)
-
-### Portifólio ⛬
-[![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://portifolio-fabio-henrique.netlify.app/)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-henrique-dos-santos-3186921b4/)
+- [Portifólio](https://portifolio-fabio-henrique.netlify.app/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenriQ&show_icons=true&theme=radical&locale=pt-br)
 
