@@ -3,7 +3,7 @@
 
 ### Minhas redes para contato 📧
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-henrique-dos-santos-3186921b4/)
-- [Portifólio](https://portifolio-fabio-henrique.netlify.app/)
+- [![Portifólio](https://img.shields.io/badge/portifolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-fabio-henrique.netlify.app/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenriQ&show_icons=true&theme=radical&locale=pt-br)
 
