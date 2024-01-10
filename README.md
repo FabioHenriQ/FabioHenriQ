@@ -35,19 +35,7 @@
 </details>
 <hr>
 
-## Meus Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenriQ&show_icons=true&theme=transparent&locale=pt-br&title_color=c2b4b4&text_color=c2b4b4&icon_color=b4b434&border_radius=25)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&layout=donut&locale=pt-br&title_color=c2b4b4&text_color=c2b4b4&icon_color=b4b434&border_radius=25&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&layout=donut-vertical&color=#00000)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&locale=pt-br)](https://github.com/FabioHenriQ/github-readme-stats)
