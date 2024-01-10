@@ -1,23 +1,23 @@
-<h1 align="left">Fabio Henrique</h1>
-<p>Olá!👋 Sou <b>Web Developer</b> em constante aprendizagem, que a força esteja com você!</p>
+<h1 align="left">Fabio Henrique <</>/</>></b></h1>
+<h3>Olá!👋 Sou <b>Web Developer</b> em constante aprendizagem, que a força esteja com você!</h3>
 
 <p>⏱️ <i>Estou aprendendo</i>: <b> Backend e Frameworks Frontend</b>, em busca de me tornar um mestre Fullstack e Engenheiro de software</p>
 
-Você pode me encontrar aqui:
+<h3>Você pode me encontrar aqui:</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-henrique-dos-santos-3186921b4/)
-[![Portifólio](https://img.shields.io/badge/portifolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-fabio-henrique.netlify.app/)
+[![Portifólio](https://img.shields.io/badge/portifolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabio-henrique-portifolio.netlify.app/)
 
 Minhas Skills:
 <details>
-  <summary>Principais!</summary>
+  <summary> <i>Principais</i>!</summary>
    <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-3c3c3c?style=for-the-badge&logo=html5&logoColor=white"/ >
    <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-3c3c3c?style=for-the-badge&logo=css3&logoColor=white"/ >
    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-3c3c3c?style=for-the-badge&logo=javascript&logoColor=white"/ >
   
 </details>
 <details>
-  <summary>Estou aprendendo!</summary>
+  <summary><i>Estou aprendendo</i>!</summary>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-3c3c3c?style=for-the-badge&logo=react&logoColor=white"/ >
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-3c3c3c?style=for-the-badge&logo=typescript&logoColor=white"/ >
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-3c3c3c?style=for-the-badge&logo=tailwind-css&logoColor=white)"/ >
@@ -33,7 +33,7 @@ Minhas Skills:
 
 
 # Olá 👋
-[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&vCenter=true&width=1000&lines=Meu+nome+é+Fabio+Henrique;Atualmente+sou+Desenvolvedor+WEB;Futuro+Engenheiro+de+Software+:%29)](https://git.io/typing-svg)
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=20&vCenter=true&width=1000&lines=-+>;-+>;-+>)](https://git.io/typing-svg)
 
 <details>
   <summary>Clique para expandir!</summary>
