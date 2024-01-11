@@ -5,15 +5,14 @@
 </div>
 <h1 align="center">Fabio Henrique <</>/</>></b></h1>
 <h3">👋 Sou <b>Web Developer</b> em constante aprendizagem, que a força esteja com você!</h3>
-
 <p>⏱️ <i>Estou aprendendo</i>: <b> Backend e Frameworks Frontend</b>, em busca de me tornar um mestre Fullstack e Engenheiro de software</p>
-
+<div align="center">
 <h3>Você pode me encontrar aqui: 📧</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-henrique-dos-santos-3186921b4/)
 [![Portifólio](https://img.shields.io/badge/portifolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabio-henrique-portifolio.netlify.app/)
-<br>
-<br>
+
+</div>
 
 ### Minhas Skills:
 <details>
@@ -36,6 +35,7 @@
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/PHP-3c3c3c?style=for-the-badge&logo=php&logoColor=white"/ >
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Bootstrap-3c3c3c?style=for-the-badge&logo=bootstrap&logoColor=white"/ >
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Spring-3c3c3c?style=for-the-badge&logo=spring&logoColor=white"/ >
+  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Node.js-3c3c3c?style=for-the-badge&logo=node.js&logoColor=white"/ >
 </details>
 <hr>
 
