@@ -1,4 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c3c3c&height=100&section=header"/>
+<div align="center">
+
+  ![Header](https://raw.githubusercontent.com/FabioHenriQ/FabioHenriQ/main/github-header-image%20(1).png)
+  
+</div>
 <h1 align="center">Fabio Henrique <</>/</>></b></h1>
 <h3">Olá!👋 Sou <b>Web Developer</b> em constante aprendizagem, que a força esteja com você!</h3>
 
