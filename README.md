@@ -4,7 +4,7 @@
   
 </div>
 <h1 align="center">Fabio Henrique <</>/</>></b></h1>
-<h3">Olá!👋 Sou <b>Web Developer</b> em constante aprendizagem, que a força esteja com você!</h3>
+<h3">👋 Sou <b>Web Developer</b> em constante aprendizagem, que a força esteja com você!</h3>
 
 <p>⏱️ <i>Estou aprendendo</i>: <b> Backend e Frameworks Frontend</b>, em busca de me tornar um mestre Fullstack e Engenheiro de software</p>
 
