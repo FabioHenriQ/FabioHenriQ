@@ -1,5 +1,6 @@
-<h1 align="left">Fabio Henrique <</>/</>></b></h1>
-<h3>Olá!👋 Sou <b>Web Developer</b> em constante aprendizagem, que a força esteja com você!</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c3c3c&height=100&section=header"/>
+<h1 align="center">Fabio Henrique <</>/</>></b></h1>
+<h3">Olá!👋 Sou <b>Web Developer</b> em constante aprendizagem, que a força esteja com você!</h3>
 
 <p>⏱️ <i>Estou aprendendo</i>: <b> Backend e Frameworks Frontend</b>, em busca de me tornar um mestre Fullstack e Engenheiro de software</p>
 
@@ -7,7 +8,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-henrique-dos-santos-3186921b4/)
 [![Portifólio](https://img.shields.io/badge/portifolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabio-henrique-portifolio.netlify.app/)
-<br>
 <br>
 <br>
 
@@ -35,7 +35,12 @@
 </details>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenriQ&show_icons=true&theme=transparent&locale=pt-br&title_color=c2b4b4&text_color=c2b4b4&icon_color=b4b434&border_radius=25)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&layout=donut&locale=pt-br&title_color=c2b4b4&text_color=c2b4b4&icon_color=b4b434&border_radius=25&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" border="1px">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenriQ&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&title_color=c2b4b4&text_color=c2b4b4&icon_color=b4b434&border_radius=25)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&layout=donut&hide_border=true&locale=pt-br&title_color=c2b4b4&text_color=c2b4b4&icon_color=b4b434&border_radius=25&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FabioHenriQ&bg_color=0d1117&color=3c3c3c&line=3c3c3c&point=b4b434&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c3c3c&height=100&section=footer"/>
