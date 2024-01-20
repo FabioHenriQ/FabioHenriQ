@@ -26,7 +26,7 @@
   <summary><i>Estou aprendendo</i>!</summary>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-3c3c3c?style=for-the-badge&logo=react&logoColor=white"/ >
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-3c3c3c?style=for-the-badge&logo=typescript&logoColor=white"/ >
-  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-3c3c3c?style=for-the-badge&logo=tailwind-css&logoColor=white)"/ >
+  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-3c3c3c?style=for-the-badge&logo=tailwind-css&logoColor=white"/ >
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Angular-3c3c3c?style=for-the-badge&logo=angular&logoColor=white"/ >
 </details>
 <details>
