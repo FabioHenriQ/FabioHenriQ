@@ -24,18 +24,19 @@
 </details>
 <details>
   <summary><i>Estou aprendendo</i>!</summary>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-3c3c3c?style=for-the-badge&logo=react&logoColor=white"/ >
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-3c3c3c?style=for-the-badge&logo=typescript&logoColor=white"/ >
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-3c3c3c?style=for-the-badge&logo=tailwind-css&logoColor=white"/ >
-  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Angular-3c3c3c?style=for-the-badge&logo=angular&logoColor=white"/ >
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-3c3c3c?style=for-the-badge&logo=openjdk&logoColor=white"/ >
+  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-3c3c3c?style=for-the-badge&logo=spring&logoColor=white"/ >
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-3c3c3c.svg?style=for-the-badge&logo=angular&logoColor=white"/ >
 </details>
 <details>
   <summary><i>Quero aprender</i>!</summary>
-  <img align="center" alt="React" src="https://img.shields.io/badge/Java-3c3c3c?style=for-the-badge&logo=openjdk&logoColor=white"/ >
-  <img align="center" alt="Typescript" src="https://img.shields.io/badge/PHP-3c3c3c?style=for-the-badge&logo=php&logoColor=white"/ >
-  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Bootstrap-3c3c3c?style=for-the-badge&logo=bootstrap&logoColor=white"/ >
-  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Spring-3c3c3c?style=for-the-badge&logo=spring&logoColor=white"/ >
-  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Node.js-3c3c3c?style=for-the-badge&logo=node.js&logoColor=white"/ >
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-3c3c3c?style=for-the-badge&logo=react&logoColor=white"/ >
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-3c3c3c?style=for-the-badge&logo=php&logoColor=white"/ >
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-3c3c3c?style=for-the-badge&logo=bootstrap&logoColor=white"/ >
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-3c3c3c?style=for-the-badge&logo=node.js&logoColor=white"/ >
+  <img align="center" alt="React Native" src="https://img.shields.io/badge/react_native-3c3c3c.svg?style=for-the-badge&logo=react&logoColor=white"/ >
 </details>
 <hr>
 
