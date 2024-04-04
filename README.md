@@ -30,6 +30,8 @@
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-3c3c3c?style=for-the-badge&logo=spring&logoColor=white"/ >
   <img align="center" alt="Spring" src="https://img.shields.io/badge/SASS-3c3c3c.svg?style=for-the-badge&logo=SASS&logoColor=white"/ >
   <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-3c3c3c.svg?style=for-the-badge&logo=angular&logoColor=white"/ >
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-3c3c3c?style=for-the-badge&logo=mysql&logoColor=white"/ >
+  
 </details>
 <details>
   <summary><i>Quero aprender</i>!</summary>
