@@ -47,7 +47,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenriQ&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&title_color=c2b4b4&text_color=c2b4b4&icon_color=b4b434&border_radius=25)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriQ&layout=donut&hide_border=true&locale=pt-br&title_color=c2b4b4&text_color=c2b4b4&icon_color=b4b434&border_radius=25&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FabioHenriQ&bg_color=0d1117&color=3c3c3c&line=3c3c3c&point=b4b434&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
 
